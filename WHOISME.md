@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Refikefendi
 - 👀 I’m interested in almost anything
+- I'm industrial Designer & Maker 
 - 🌱 I’m currently learning phyton & arduino
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me:
